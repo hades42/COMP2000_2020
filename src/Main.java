@@ -2,9 +2,9 @@ import javax.swing.*;
 import java.awt.*;
 
 class Main extends JFrame {
-    
+
     class App extends JPanel {
-        
+
         Grid grid;
 
         public App() {
